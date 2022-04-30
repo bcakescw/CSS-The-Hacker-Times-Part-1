@@ -23,17 +23,28 @@ body, borders{
     background-color: white;
     width: 700px;
     border-radius: 2%;
+    margin: auto;
+    padding: 1em;
 }
 
 main{
     color: #dd3232;
 }
 header {
-    margin: auto;
-    padding: 1em;
-}
+    margin: auto;}
 
 h1 {
     width: 50%;
     margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.more-articles {
+    display: inline-block;
+    margin: auto;
+    width: 30%;
 }
