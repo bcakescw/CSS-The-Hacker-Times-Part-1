@@ -59,6 +59,10 @@ h5 {
     color: #dd3232;
     margin-top: 0em;
     font-weight: bold;
+    font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
 }
 
 .date {
