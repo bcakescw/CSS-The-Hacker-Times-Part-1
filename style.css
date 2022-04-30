@@ -42,6 +42,7 @@ header {
     margin: auto;}
 
 h1 {
+    font-size: 250%;
     width: 50%;
     margin: auto;
     text-align: center;
@@ -88,7 +89,8 @@ section {
 
 ul {
     margin: 0.50em;
-    padding-inline-start: 20px;
+    padding-inline-start: 40px;
+    font-size: 90%;
 }
 
 p{
