@@ -29,6 +29,8 @@ body, borders{
 
 main{
     color: #dd3232;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1em;
 }
 header {
     margin: auto;}
