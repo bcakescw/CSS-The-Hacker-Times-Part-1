@@ -2,6 +2,8 @@
 
 nav li {
     display: inline-block;
+    padding: 5px;
+    text-align: center;
 }
 
 nav{
@@ -86,8 +88,10 @@ section {
 
 ul {
     margin: 0.50em;
+    padding-inline-start: 20px;
 }
 
 p{
     color: #777;
+    padding-left: 1em;
 }
