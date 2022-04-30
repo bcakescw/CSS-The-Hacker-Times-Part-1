@@ -45,16 +45,21 @@ img {
     width: 100%;
 }
 
-.more-articles {
-    display: inline-block;
-    margin: auto;
-    width: 30%;
-}
-
 h5 {
     color: #dd3232;
+    margin-top: 0em;
 }
 
 .date {
     color: black;
+}
+
+h2 {
+    margin-bottom: 1em;
+}
+
+section {
+    width: 40%;
+    display: inline-block;
+    margin: 30px
 }
