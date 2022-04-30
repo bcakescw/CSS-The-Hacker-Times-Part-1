@@ -28,7 +28,6 @@ body, borders{
 }
 
 main{
-    color: #dd3232;
     border-bottom: 1px solid #eee;
     padding-bottom: 1em;
 }
@@ -49,4 +48,12 @@ img {
     display: inline-block;
     margin: auto;
     width: 30%;
+}
+
+h5 {
+    color: #dd3232;
+}
+
+.date {
+    color: black;
 }
